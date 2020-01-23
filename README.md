@@ -1,2 +1,2 @@
 # acme-web-design
-project of incremental development
+Welcome to a project of incremental development
